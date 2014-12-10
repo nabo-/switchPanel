@@ -1,0 +1,18 @@
+@charset "utf-8";
+@import "compass";
+@include global-reset;
+
+
+.js-switch__prev_disable {
+	color:#666;
+}
+.js-switch__next_disable {
+	color:#666;
+}
+
+.js-show {
+	display:block;
+}
+.js-hide {
+	display:none;
+}
